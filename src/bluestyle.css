@@ -3,6 +3,14 @@ body {
   }
   
   h1 {
-  color: navy;
+  color: rgb(67, 67, 76);
   margin-left: 20px;
+  }
+
+  .hello-git-img{
+    width: 100%;
+  }
+
+  .hello-world-img{
+    width: 100%;
   }
