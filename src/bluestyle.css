@@ -7,10 +7,16 @@ body {
   margin-left: 20px;
   }
 
+<<<<<<< HEAD
   .hello-git-img{
     width: 100%;
   }
 
   .hello-world-img{
     width: 100%;
+=======
+  .hello-image{
+    width: 100%;
+    max-width: 960px;
+>>>>>>> hello-world-images
   }
